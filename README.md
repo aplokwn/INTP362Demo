@@ -8,7 +8,7 @@
 
   </a>
 
-<h3 align="center">Spring Boot Hello World + RESTful Sample</h3>
+<h3 align="center">Spring Boot CRUD web via database Sample</h3>
 
   <p align="center">
     Spring Boot CRUD web via database Sample for in-class tutorial blog
